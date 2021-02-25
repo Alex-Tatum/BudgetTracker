@@ -25,5 +25,5 @@ When brought back online:
  * Will run on http://localhost:3000
  
  ## Links
- GitHub Repository: https://github.com/Alex-Tatum/BudgetTracker
- Heroku App: https://budget-tracker112.herokuapp.com/
+ * GitHub Repository: https://github.com/Alex-Tatum/BudgetTracker
+ * Heroku App: https://budget-tracker112.herokuapp.com/
